@@ -1,0 +1,115 @@
+draw state...
+draw shape command: execute
+OnShapesChanged called, Shapes count: 1
+Shape added to model, current count: 1
+OnShapesChanged called, Shapes count: 1
+OnShapesChanged
+draw state...
+draw shape command: execute
+OnShapesChanged called, Shapes count: 2
+Shape added to model, current count: 2
+OnShapesChanged called, Shapes count: 2
+OnShapesChanged
+draw state...
+draw shape command: execute
+OnShapesChanged called, Shapes count: 3
+Shape added to model, current count: 3
+OnShapesChanged called, Shapes count: 3
+OnShapesChanged
+draw state...
+draw shape command: execute
+OnShapesChanged called, Shapes count: 4
+Shape added to model, current count: 4
+OnShapesChanged called, Shapes count: 4
+OnShapesChanged
+draw state...
+draw shape command: execute
+OnShapesChanged called, Shapes count: 5
+Shape added to model, current count: 5
+OnShapesChanged called, Shapes count: 5
+OnShapesChanged
+draw shape command: execute
+OnShapesChanged called, Shapes count: 6
+Shape added to model, current count: 6
+OnShapesChanged called, Shapes count: 6
+OnShapesChanged
+select state...
+-----shape & text moving
+move shape command: execute
+OnShapesChanged called, Shapes count: 6
+OnShapesChanged called, Shapes count: 6
+line state...
+Mouse: {X=300,Y=100}, Point: {X=300,Y=50}, Distance: 50
+Mouse: {X=300,Y=100}, Point: {X=300,Y=100}, Distance: 0
+Mouse: {X=300,Y=110}, Point: {X=300,Y=50}, Distance: 60
+Mouse: {X=300,Y=110}, Point: {X=300,Y=100}, Distance: 10
+Mouse: {X=300,Y=120}, Point: {X=300,Y=50}, Distance: 70
+Mouse: {X=300,Y=120}, Point: {X=300,Y=100}, Distance: 20
+Mouse: {X=300,Y=120}, Point: {X=250,Y=75}, Distance: 67.26812
+Mouse: {X=300,Y=120}, Point: {X=350,Y=75}, Distance: 67.26812
+Mouse: {X=300,Y=120}, Point: {X=300,Y=150}, Distance: 30
+Mouse: {X=300,Y=120}, Point: {X=300,Y=200}, Distance: 80
+Mouse: {X=300,Y=120}, Point: {X=250,Y=175}, Distance: 74.33035
+Mouse: {X=300,Y=120}, Point: {X=350,Y=175}, Distance: 74.33035
+Mouse: {X=300,Y=120}, Point: {X=300,Y=250}, Distance: 130
+Mouse: {X=300,Y=120}, Point: {X=300,Y=280}, Distance: 160
+Mouse: {X=300,Y=120}, Point: {X=200,Y=265}, Distance: 176.1391
+Mouse: {X=300,Y=120}, Point: {X=400,Y=265}, Distance: 176.1391
+Mouse: {X=300,Y=120}, Point: {X=200,Y=350}, Distance: 250.7987
+Mouse: {X=300,Y=120}, Point: {X=200,Y=400}, Distance: 297.3214
+Mouse: {X=300,Y=120}, Point: {X=150,Y=375}, Distance: 295.8463
+Mouse: {X=300,Y=120}, Point: {X=250,Y=375}, Distance: 259.8557
+Mouse: {X=300,Y=120}, Point: {X=400,Y=350}, Distance: 250.7987
+Mouse: {X=300,Y=120}, Point: {X=400,Y=400}, Distance: 297.3214
+Mouse: {X=300,Y=120}, Point: {X=350,Y=375}, Distance: 259.8557
+Mouse: {X=300,Y=120}, Point: {X=450,Y=375}, Distance: 295.8463
+Mouse: {X=300,Y=120}, Point: {X=300,Y=490}, Distance: 370
+Mouse: {X=300,Y=120}, Point: {X=300,Y=540}, Distance: 420
+Mouse: {X=300,Y=120}, Point: {X=250,Y=515}, Distance: 398.152
+Mouse: {X=300,Y=120}, Point: {X=350,Y=515}, Distance: 398.152
+Mouse: {X=300,Y=130}, Point: {X=300,Y=50}, Distance: 80
+Mouse: {X=300,Y=130}, Point: {X=300,Y=100}, Distance: 30
+Mouse: {X=300,Y=130}, Point: {X=250,Y=75}, Distance: 74.33035
+Mouse: {X=300,Y=130}, Point: {X=350,Y=75}, Distance: 74.33035
+Mouse: {X=300,Y=130}, Point: {X=300,Y=150}, Distance: 20
+Mouse: {X=300,Y=130}, Point: {X=300,Y=200}, Distance: 70
+Mouse: {X=300,Y=130}, Point: {X=250,Y=175}, Distance: 67.26812
+Mouse: {X=300,Y=130}, Point: {X=350,Y=175}, Distance: 67.26812
+Mouse: {X=300,Y=130}, Point: {X=300,Y=250}, Distance: 120
+Mouse: {X=300,Y=130}, Point: {X=300,Y=280}, Distance: 150
+Mouse: {X=300,Y=130}, Point: {X=200,Y=265}, Distance: 168.003
+Mouse: {X=300,Y=130}, Point: {X=400,Y=265}, Distance: 168.003
+Mouse: {X=300,Y=130}, Point: {X=200,Y=350}, Distance: 241.6609
+Mouse: {X=300,Y=130}, Point: {X=200,Y=400}, Distance: 287.9236
+Mouse: {X=300,Y=130}, Point: {X=150,Y=375}, Distance: 287.2716
+Mouse: {X=300,Y=130}, Point: {X=250,Y=375}, Distance: 250.05
+Mouse: {X=300,Y=130}, Point: {X=400,Y=350}, Distance: 241.6609
+Mouse: {X=300,Y=130}, Point: {X=400,Y=400}, Distance: 287.9236
+Mouse: {X=300,Y=130}, Point: {X=350,Y=375}, Distance: 250.05
+Mouse: {X=300,Y=130}, Point: {X=450,Y=375}, Distance: 287.2716
+Mouse: {X=300,Y=130}, Point: {X=300,Y=490}, Distance: 360
+Mouse: {X=300,Y=130}, Point: {X=300,Y=540}, Distance: 410
+Mouse: {X=300,Y=130}, Point: {X=250,Y=515}, Distance: 388.2332
+Mouse: {X=300,Y=130}, Point: {X=350,Y=515}, Distance: 388.2332
+Mouse: {X=300,Y=140}, Point: {X=300,Y=50}, Distance: 90
+Mouse: {X=300,Y=140}, Point: {X=300,Y=100}, Distance: 40
+Mouse: {X=300,Y=140}, Point: {X=250,Y=75}, Distance: 82.0061
+Mouse: {X=300,Y=140}, Point: {X=350,Y=75}, Distance: 82.0061
+Mouse: {X=300,Y=140}, Point: {X=300,Y=150}, Distance: 10
+Mouse: {X=300,Y=150}, Point: {X=300,Y=50}, Distance: 100
+Mouse: {X=300,Y=150}, Point: {X=300,Y=100}, Distance: 50
+Mouse: {X=300,Y=150}, Point: {X=250,Y=75}, Distance: 90.13878
+Mouse: {X=300,Y=150}, Point: {X=350,Y=75}, Distance: 90.13878
+Mouse: {X=300,Y=150}, Point: {X=300,Y=150}, Distance: 0
+OnShapesChanged called, Shapes count: 7
+OnShapesChanged called, Shapes count: 7
+draw shape command: execute
+OnShapesChanged called, Shapes count: 8
+Shape added to model, current count: 8
+OnShapesChanged called, Shapes count: 8
+OnShapesChanged
+draw shape command: execute
+OnShapesChanged called, Shapes count: 9
+Shape added to model, current count: 9
+OnShapesChanged called, Shapes count: 9
+OnShapesChanged

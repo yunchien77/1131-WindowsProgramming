@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|c:\\users\\cherr\\desktop\\windowsprogramming\\hw6\\b812110004\\mydrawing\\mydrawing\\mydrawingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\mydrawingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\mydrawing\\mydrawingpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\mydrawingpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\mydrawing\\mydrawingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\mydrawingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\mydrawing\\states\\selectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\states\\selectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76EB74E-4BE5-4A09-8D7C-AB74D78ABF16}|MyDrawingTests\\MyDrawingTests.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\mydrawingtests\\modeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76EB74E-4BE5-4A09-8D7C-AB74D78ABF16}|MyDrawingTests\\MyDrawingTests.csproj|solutionrelative:mydrawingtests\\modeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\mydrawing\\states\\linedrawingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\states\\linedrawingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\mydrawing\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDrawingModel.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingModel.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\MyDrawingModel.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingModel.cs",
+              "RelativeToolTip": "MyDrawing\\MyDrawingModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:40:49.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDrawingView.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingView.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\MyDrawingView.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingView.cs",
+              "RelativeToolTip": "MyDrawing\\MyDrawingView.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAUwJ4BAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:35:17.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LineDrawingState.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\States\\LineDrawingState.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\States\\LineDrawingState.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\States\\LineDrawingState.cs",
+              "RelativeToolTip": "MyDrawing\\States\\LineDrawingState.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwHcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:29:45.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\Command\\ICommand.cs",
+              "RelativeToolTip": "MyDrawing\\Command\\ICommand.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAkwFoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:26:01.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDrawingPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingPresenter.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\MyDrawingPresenter.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingPresenter.cs",
+              "RelativeToolTip": "MyDrawing\\MyDrawingPresenter.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAYwBoBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:25:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectionState.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\States\\SelectionState.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\States\\SelectionState.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawing\\States\\SelectionState.cs",
+              "RelativeToolTip": "MyDrawing\\States\\SelectionState.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwE8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:21:11.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawingTests\\ModelTests.cs",
+              "RelativeDocumentMoniker": "MyDrawingTests\\ModelTests.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw6\\B812110004\\MyDrawing\\MyDrawingTests\\ModelTests.cs",
+              "RelativeToolTip": "MyDrawingTests\\ModelTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:53:30.53Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1095,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1095,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

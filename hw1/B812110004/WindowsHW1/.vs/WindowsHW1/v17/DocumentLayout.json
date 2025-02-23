@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\windowshw1\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|solutionrelative:windowshw1\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\windowshw1\\calculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|solutionrelative:windowshw1\\calculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\windowshw1\\calculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|solutionrelative:windowshw1\\calculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\windowshw1\\calculatorview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFE7DF4-1028-433A-A19A-E582514AC3E2}|WindowsHW1\\WindowsHW1.csproj|solutionrelative:windowshw1\\calculatorview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "WindowsHW1\\CalculatorModel.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorModel.cs",
+              "RelativeToolTip": "WindowsHW1\\CalculatorModel.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:23:49.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorView.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsHW1\\CalculatorView.Designer.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorView.Designer.cs",
+              "RelativeToolTip": "WindowsHW1\\CalculatorView.Designer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAD4v/4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:49:25.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorView.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorView.cs",
+              "RelativeDocumentMoniker": "WindowsHW1\\CalculatorView.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorView.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "WindowsHW1\\CalculatorView.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:51:13.862Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorView.cs",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorView.cs",
+              "RelativeDocumentMoniker": "WindowsHW1\\CalculatorView.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw1\\B812110004\\WindowsHW1\\WindowsHW1\\CalculatorView.cs",
+              "RelativeToolTip": "WindowsHW1\\CalculatorView.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:54:52.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

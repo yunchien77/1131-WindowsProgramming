@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw2\\B812110004\\MyDrawing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|c:\\users\\cherr\\desktop\\windowsprogramming\\hw2\\b812110004\\mydrawing\\mydrawing\\mydrawingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A19D82-3BA8-47D8-85EE-929BDCC61F20}|MyDrawing\\MyDrawing.csproj|solutionrelative:mydrawing\\mydrawingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDrawingView.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw2\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingView.cs",
+              "RelativeDocumentMoniker": "MyDrawing\\MyDrawingView.cs",
+              "ToolTip": "C:\\Users\\cherr\\Desktop\\windowsProgramming\\hw2\\B812110004\\MyDrawing\\MyDrawing\\MyDrawingView.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MyDrawing\\MyDrawingView.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:30:00.12Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
